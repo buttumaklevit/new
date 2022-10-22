@@ -3,3 +3,4 @@ drwxr-xr-x 1 leehm 197609 0 Oct 22 14:44 ./
 drwxr-xr-x 1 leehm 197609 0 Oct 22 14:43 ../
 drwxr-xr-x 1 leehm 197609 0 Oct 22 14:43 .git/
 -rw-r--r-- 1 leehm 197609 0 Oct 22 14:44 ls.txt
+add copy 2
